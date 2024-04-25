@@ -1,4 +1,4 @@
-package com.example.sqlspring;
+package com.example.tpsqlspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
